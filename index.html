@@ -26,33 +26,37 @@
                 <p>You <em>know</em> you want to.</p>
             </div>
             <div class="form-container">
-                <form action="" method="post">
+                <form action="#" method="post">
                     <div class="form-white-container">
                         <h3>Let's do this !</h3>
                         <div class="form-input-container">
-                            <div class="form-controls">
-                                <label for="">input1</label>
-                                <input type="text">
+                            <div class="form-input-container-left">
+                                <div class="form-controls">
+                                    <input type="text" placeholder="Silva">
+                                    <label for="">first name</label>
+                                </div>
+                                <div class="form-controls">
+                                    <input type="email" placeholder="Diego.Silva@test.me">
+                                    <label for="">email</label>
+                                </div>
+                                <div class="form-controls">
+                                    <input type="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}">
+                                    <label for="">password</label>
+                                </div>
                             </div>
-                            <div class="form-controls">
-                                <label for="">input2</label>
-                                <input type="text">
-                            </div>
-                            <div class="form-controls">
-                                <label for="">input3</label>
-                                <input type="text">
-                            </div>
-                            <div class="form-controls">
-                                <label for="">input4</label>
-                                <input type="text">
-                            </div>
-                            <div class="form-controls">
-                                <label for="">input5</label>
-                                <input type="text">
-                            </div>
-                            <div class="form-controls">
-                                <label for="">input6</label>
-                                <input type="text">
+                            <div class="form-input-container-right">
+                                <div class="form-controls">
+                                    <input type="text" placeholder="Diego">
+                                    <label for="">last name</label>
+                                </div>
+                                <div class="form-controls">
+                                    <input type="tel" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+                                    <label for="">phone number</label>
+                                </div>
+                                <div class="form-controls">
+                                    <input type="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}">
+                                    <label for="">confirm password</label>
+                                </div>
                             </div>
                         </div>
                     </div>
