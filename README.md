@@ -2,6 +2,10 @@
 
 This is a responsive sign-up form project built as part of the **Odin Project Foundations Course**. The goal was to create a functional and aesthetically pleasing registration form using **HTML** and **CSS**, while also gaining experience with form validation and modern layout techniques.
 
+## 📸 Screenshot
+
+![testo1231534](https://github.com/user-attachments/assets/479b2d50-4edf-4fd2-bb12-36811df76bde)
+
 ## 🔍 Project Overview
 
 This is not a real sign-up page! It’s designed purely for learning purposes.
@@ -27,10 +31,6 @@ The page features:
 ## 🌐 Live Demo
 
 https://amolixs25.github.io/odin-signup-form/
-
-## 📸 Screenshot
-
-![testo1231534](https://github.com/user-attachments/assets/479b2d50-4edf-4fd2-bb12-36811df76bde)
 
 ## ✅ What I Learned
 
